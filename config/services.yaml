@@ -1,0 +1,9 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/services
+
+- Localhost:
+    - Netdata: 
+      icon: netdata.svg
+      href: http://localhost:19999/
+      description: netdata

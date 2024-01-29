@@ -1,0 +1,58 @@
+[2024-01-29T03:02:41.124Z] info: docker.yaml was copied to the config folder
+[2024-01-29T03:02:41.124Z] info: services.yaml was copied to the config folder
+[2024-01-29T03:02:41.125Z] info: bookmarks.yaml was copied to the config folder
+[2024-01-29T03:02:41.134Z] info: widgets.yaml was copied to the config folder
+[2024-01-29T03:02:41.134Z] info: custom.css was copied to the config folder
+[2024-01-29T03:02:41.134Z] info: custom.js was copied to the config folder
+[2024-01-29T03:02:41.174Z] info: kubernetes.yaml was copied to the config folder
+[2024-01-29T03:05:45.499Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:05:45.500Z] error: TypeError: services.map is not a function
+[2024-01-29T03:05:45.624Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:05:45.624Z] error: TypeError: services.map is not a function
+[2024-01-29T03:05:45.883Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:05:45.883Z] error: TypeError: services.map is not a function
+[2024-01-29T03:05:52.854Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:05:52.854Z] error: TypeError: services.map is not a function
+[2024-01-29T03:05:52.982Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:05:52.982Z] error: TypeError: services.map is not a function
+[2024-01-29T03:06:22.903Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:06:22.903Z] error: TypeError: services.map is not a function
+[2024-01-29T03:07:09.671Z] info: settings.yaml was copied to the config folder
+[2024-01-29T03:07:09.681Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:07:09.681Z] error: TypeError: services.map is not a function
+[2024-01-29T03:07:09.688Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:07:09.688Z] error: TypeError: services.map is not a function
+[2024-01-29T03:07:09.804Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:07:09.804Z] error: TypeError: services.map is not a function
+[2024-01-29T03:07:10.877Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:07:10.878Z] error: TypeError: services.map is not a function
+[2024-01-29T03:07:24.024Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:07:24.024Z] error: TypeError: services.map is not a function
+[2024-01-29T03:07:24.590Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:07:24.591Z] error: TypeError: services.map is not a function
+[2024-01-29T03:07:32.600Z] info: services.yaml was copied to the config folder
+[2024-01-29T03:07:52.469Z] info: services.yaml was copied to the config folder
+[2024-01-29T03:13:54.683Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:13:54.684Z] error: YAMLException: bad indentation of a mapping entry (8:20)
+
+ 5 | - Services:
+ 6 |     - Netdata: 
+ 7 |       href: http://localhost:19999/
+ 8 |         description: netdata
+------------------------^
+[2024-01-29T03:13:54.692Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:13:54.693Z] error: YAMLException: bad indentation of a mapping entry (8:20)
+
+ 5 | - Services:
+ 6 |     - Netdata: 
+ 7 |       href: http://localhost:19999/
+ 8 |         description: netdata
+------------------------^
+[2024-01-29T03:13:54.863Z] error: Failed to load services.yaml, please check for errors
+[2024-01-29T03:13:54.864Z] error: YAMLException: bad indentation of a mapping entry (8:20)
+
+ 5 | - Services:
+ 6 |     - Netdata: 
+ 7 |       href: http://localhost:19999/
+ 8 |         description: netdata
+------------------------^
